@@ -1,5 +1,4 @@
 name: 		 Engineering @ HotelQuickly
 markdown:    redcarpet
 pygments:	 true
-source:      _source
-destination: _deploy
+timezone:    Asia/Bangkok
