@@ -8,7 +8,7 @@ title: Your New Jekyll Site
   <ul class="posts">
     {% for post in site.posts %}
     	<li>
-    	    <h2>{{ post.title }}</h2>
+    	    <h2 class="post-title-on-list">{{ post.title }}</h2>
       		<span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">read full article</a>
       		{% if post.content contains '<!--more-->' %}
               {{ post.content | split:'<!--more-->' | first }}
