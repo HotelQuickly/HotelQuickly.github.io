@@ -6,6 +6,10 @@ categories: user-experience
 
 ## Planning
 
+Since we want to build the best last-minute hotel booking app, we're testing it with random users.
+
+After a few days of user testing we compiled suggestinos for those of you keen to organize similar sessions.
+
 
 ## Preparation
 
@@ -19,12 +23,18 @@ Plan at least 30 minutes for one session and add 10 min buffer (at least). We sa
 
 If possible, bring at least 2 cameras. Focus one on the phone and the other on the user to record his facial expressions after being impressed from the app! :-) Just kidding...
 
+Prepare a test account for faster login and test credit card. We used the magic number 4111 1111 1111 1111.
+
 Don't forget paper and a pen so that you can take notes. Right, Josef? :)
 
 
-## During the meeting
+## Testing session
 
-### Introduction
+### Before the meeting
+
+Delete the app and install it from HockeyApp. In our case it's important to delete all the user data so that the new tester sees the getting started screen and tutorials.
+
+### Introduction during the meeting
 
 Before you start the testing itself, explain to each user the follorwing:
 
@@ -38,47 +48,55 @@ Before you start the testing itself, explain to each user the follorwing:
 
 After all is clear, turn on the video-camera and start with the questions.
 
-### Questions
+### Testing questions
 
-### Q1
+We defined a few key areas that are extremely important and all users should get them done easily. For example:
+
+* passing through registration / login
+* getting to hotel gallery
+* checking hotel facilities and map directions
+* booking a hotel (incl. adding a credit card)
+* sharing and credits
+
+### Question 1
 Select any hotel you would like to book tomorrow in Singapore
 
 (talk me through the process, what you are thinking, why did you select the hotel etc) 
 
 observe: country selection, tomorrow booking
 
-### Q2
+### Question 2
 Book hotel *HQ Palace* hotel for 3 nights
 
 Add prepared credit card and actually book the hotel
 
-### Q3
+### Question 3
 How do you get to the hotel you booked from where you are?
 
 GPS navigation working? People realising where they are, where the hotel is and how to get there?
 
-### Q4
+### Question 4
 Share this booking with your friends
 
-### Q5
+### Question 5
 Tell me the total amount of credits you have now
 
 Do users even know they have credits?
 
-### Q6
+### Question 6
 How can you increase the number of your credits?
 
 Do users get the invite your friends to get more credits? Then ask them to do so (invite).
 
-### Q7
+### Question 7
 Select the hotel with the best deal for you for today (what criteria are you looking for?)
 
-### Q8
+### Question 8
 Send the cheapest hotel to your friend
 
 Filter for the cheapest hotels + sharing function
 
-### Q9
+### Question 9
 Does the hotel have free wifi? How is the hotel you selected reviewed? Does it have breakfast included?
 
 
