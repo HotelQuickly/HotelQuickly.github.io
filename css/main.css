@@ -27,7 +27,11 @@ h1 {
   font-size: 160%; 
 }
 h2 {
+  margin: 30px 0px 10px 0px;
   font-size: 130%; 
+}
+h3 {
+  margin: 20px 0px 10px 0px;
 }
 
 h1 { margin-bottom: 1em; }
