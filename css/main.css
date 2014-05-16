@@ -35,6 +35,11 @@ h3 {
 }
 
 h1 { margin-bottom: 1em; }
+
+h2.post-title-on-list {
+  font-size: 160%;
+}
+
 p { margin: 1em 0; }
 
 a         { color: #00a; }
