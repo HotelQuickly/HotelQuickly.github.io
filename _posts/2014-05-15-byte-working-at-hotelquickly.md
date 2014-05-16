@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How does it work at HotelQuickly? (Byte)
 author: Byte
 ---
