@@ -19,4 +19,5 @@ What I'm currently doing right now is design architecture to handle high traffic
 after launch this campaign. Sound cool? What relaxing time? 
 
 Usually on Friday night we've special event with whole office such as beer pong! (drinker huh?) 
-and sometime our CFO lead a team to some mysterious places that you cannot imagine!
+and sometime we go to some mysterious places that you cannot imagine! :-)
+
