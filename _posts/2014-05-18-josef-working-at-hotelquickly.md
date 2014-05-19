@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why to work in HotelQuickly? (Josef)
+title: Why to work at HotelQuickly? (Josef)
 author: Josef
 ---
 
