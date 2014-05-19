@@ -4,6 +4,10 @@ title: How to do user-experience testing
 categories: user-experience
 ---
 
+![Jim during last iOS testing](/img/jim-during-ux-session.jpg)
+
+Jim during the last iOS testing in Thai in Bangkok.
+
 ## Planning
 
 Since we want to build the best last-minute hotel booking app, we're testing it with random users.
@@ -38,7 +42,7 @@ Delete the app and install it from HockeyApp. In our case it's important to dele
 
 Before you start the testing itself, explain to each user the follorwing:
 
-* **Goal of the session** - check if the users are able to use the app easily and without any hickups can follow the scenarios. 
+* **Goal of the session** - check if the users are able to use the app easily and without any hickups can follow the scenarios.
 * **Talking** - ask the user to talk as much as possible to explain his thinking process. If he's quiet for 30 seconds, it will not help us. He needs to talk about his expectations.
 * **Timing** - explain that the session will take 20-30 minutes.
 * **Video-recording** - mention that we're gonna video-record the session, but will focus the camera on the phone only.
@@ -61,7 +65,7 @@ We defined a few key areas that are extremely important and all users should get
 ### Question 1
 Select any hotel you would like to book tomorrow in Singapore
 
-(talk me through the process, what you are thinking, why did you select the hotel etc) 
+(talk me through the process, what you are thinking, why did you select the hotel etc)
 
 observe: country selection, tomorrow booking
 
