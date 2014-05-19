@@ -96,6 +96,15 @@ a:visited { color: #a0a; }
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
+.site img {
+	max-width: 41em;
+	padding: 5px;
+	border: 1px solid #bbb;
+	-webkit-box-shadow: 2px 2px 3px 0px rgba(50, 50, 50, 0.30);
+	-moz-box-shadow:    2px 2px 3px 0px rgba(50, 50, 50, 0.30);
+	box-shadow:         2px 2px 3px 0px rgba(50, 50, 50, 0.30);
+	margin: 15px 0px 15px 0px;
+}
 
 .header {
   margin-bottom: 2em;
