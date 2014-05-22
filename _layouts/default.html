@@ -29,12 +29,20 @@
 		                <link rel="apple-touch-icon-precomposed" href="/public/ico/">
 		                               <link rel="shortcut icon" href="/public/ico/">
 
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
     </head>
-    
+
     <body>
+		<div class="announcement-bar" id="announcement-bar">
+			<div>
+				Did you know we are hiring?
+				Check out our <a href="https://github.com/HotelQuickly/WeAreHiring/" target="_blank">open positions for <b>Backend</b> (PHP / Node.js), <b>iOS</b> &amp; <b>Android</b> engineers</a>.
+			</div>
+		</div>
 
         <div class="site">
-			
+
 			{% include header.html %}
 
         	{{ content }}
@@ -45,3 +53,15 @@
 
     </body>
 </html>
+
+
+<script type="text/javascript">
+
+$(function() {
+	$('#announcement-bar').show('slow');
+});
+
+</script>
+
+
+

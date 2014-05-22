@@ -97,6 +97,9 @@ a:visited { color: #a0a; }
   width: 42em;
   margin: 3em auto 2em;
   line-height: 1.5em;
+
+  /* padding because of the announcement-bar */
+  padding-top: 25px;
 }
 .site img {
 	max-width: 41em;
@@ -222,3 +225,52 @@ a:visited { color: #a0a; }
 .post p img {
 	max-width: 300px;
 }
+
+/*****************************************************************************/
+/*
+/* Header yellow bar
+/*
+/*****************************************************************************/
+
+.announcement-bar {
+	min-height: 20px;
+	text-align: center;
+	font-size: 12px;
+	color: #555;
+	display: none;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+
+	/* Box shadow */
+	/* http://css3gen.com/box-shadow/ */
+	-webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.4);
+	-moz-box-shadow:    0px 2px 3px 0px rgba(50, 50, 50, 0.4);
+	box-shadow:         0px 2px 3px 0px rgba(50, 50, 50, 0.4);
+
+	/* Background gradient */
+	/* http://www.colorzilla.com/gradient-editor/ */
+	background: #fefcea; /* Old browsers */
+	background: -moz-linear-gradient(top,  #fefcea 2%, #f1da36 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(2%,#fefcea), color-stop(100%,#f1da36)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #fefcea 2%,#f1da36 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #fefcea 2%,#f1da36 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #fefcea 2%,#f1da36 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #fefcea 2%,#f1da36 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 ); /* IE6-9 */
+
+}
+.announcement-bar div {
+	padding: 5px;
+}
+.announcement-bar div a {
+	color: #2f587f !important;
+}
+
+/*****************************************************************************/
+/*
+/*
+/*
+/*****************************************************************************/
+
